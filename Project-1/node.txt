@@ -1,0 +1,53 @@
+WHAT IS NODE JS ?
+    Node Js is a crossplat it is a runtime environment allowing you to execute JavaScript code on the server side, outside a web browser.
+
+WHAT IS SERVER ?
+    A server is a computer thats provides data, resources, services, or a programs to other computers or cliet on network.
+
+WHAT IS CROSS-PLATFORM ?
+    A Softwar which can run on multiple oprating system.
+
+SERVER-SIDE SCRIPTING ?
+    Writing code that run on server rather then client's browser.
+
+ALTERNATIVE ?
+    RUBY
+    PHP
+    JAVA
+    PYTHON
+
+APP ?
+    Real-Time Applications
+    Data streming
+    ChatBOT
+
+REPL (Read-Eval-Print-Loop)
+
+Read - read the code in terminal
+Eval - Eval the code 
+Print - Print the result
+Loop - Repeat the abbove code
+
+GLOBAL ?
+
+    __Filename :
+    __dirname :
+
+MODUAL ?
+    Function or feture which can import and export.
+
+    1) Core 
+    2) Local
+    3) 3rd Party
+
+1) Core - built in Function in node no need to install.
+
+    HTTPS - Hyper text transfer Protocol
+    FS -
+    PATH - 
+    StringQuerry -
+    URL - 
+
+2) Local - User defind modual created with node js.
+
+3) 3rd Party - Npm based functions which you have to install.
